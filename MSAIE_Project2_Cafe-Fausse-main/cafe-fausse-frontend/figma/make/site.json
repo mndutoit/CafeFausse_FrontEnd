@@ -1,0 +1,10 @@
+{
+  "description": "Showcases a fine-dining Italian restaurant with a visually appealing design, highlighting the menu, ambiance, and brand identity to attract diners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
