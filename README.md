@@ -1,4 +1,5 @@
 # Café Fausse — Backend & FrontEnd Documentation
+Applies to the directory MSAIE_Project2_Cafe-Fausse-main
 
 # Café Fausse — Backend
 
